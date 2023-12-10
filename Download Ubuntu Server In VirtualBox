@@ -5,6 +5,7 @@
 # Click Machine > New (Ctrl+N)
 # Name the OS as you want
 # Select the folder path for the os as desired
+# Select the downloaded Ubuntu server iso
 # Select Operating System: Linux
 # Select Version: Ubuntu (64 bit)
 # Click next
@@ -18,6 +19,25 @@
 # Disk Size : 30.00 GB
 # Click next
 # FInish
+
+# Start the virtual machine
+# Select Try or Install Ubuntu Server
+# Pick English as the languange
+# Select Up to the new installer
+# In keyboad configuration click Done
+# Choose Ubuntu Sever and click done
+# In Network Connection just set it default and click done
+# In Proxy Configuration click done
+# In Archive mirror  click done 
+# In storage configuration click done
+# In Destructive Action select continue
+# In profil setup type your name, server's name, username, and password and click done
+# Skip the Ubuntu Pro option
+# Install OpenSSH Server and click done
+# Skip the Featured Server Snaps
+# And After Installation click Reboot Now
+
+
 
 
 
