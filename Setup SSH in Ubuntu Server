@@ -1,0 +1,6 @@
+# Open VirtualBox
+# Click Network in your Ubuntu Server
+# Click Advance
+# Click Port Forwarding
+# Click plus Icon
+# Set Host Port to 22 and Guest Port to 22
