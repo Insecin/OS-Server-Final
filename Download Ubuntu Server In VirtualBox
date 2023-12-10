@@ -1,2 +1,23 @@
 # Download ubuntu server ISO at the link https://ubuntu.com/download/server
-# Download and install latest VirtualBox
+# Download and install latest VirtualBox at the link http://www.virtualbox.org/wiki/Downloads
+#
+# Run VirtualBox
+# Click Machine > New (Ctrl+N)
+# Name the OS as you want
+# Select the folder path for the os as desired
+# Select Operating System: Linux
+# Select Version: Ubuntu (64 bit)
+# Click next
+#
+# Hardware
+# Base Memory : 2048
+# Processors : 1
+# Click next
+#
+# Virtual Hard disk
+# Disk Size : 30.00 GB
+# Click next
+# FInish
+
+
+
