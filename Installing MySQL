@@ -1,2 +1,5 @@
 # sudo apt-get install mysql-server -y
 # systemctl start mysql
+
+Activate MySQL
+# mysql -u root -p
